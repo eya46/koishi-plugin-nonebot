@@ -29,6 +29,7 @@ koishi-plugin-nonebot 团队维护一份 NoneBot 商店的子集并发布到 Koi
 - [alipayvoice](https://github.com/A-kirami/nonebot-plugin-alipayvoice)：支付宝到账语音
 - [antiinsult](https://github.com/tkgs0/nonebot-plugin-antiinsult)：反嘴臭插件
 - [biliav](https://github.com/knva/nonebot_plugin_biliav)：biliav 小程序转换器
+- [b23](https://github.com/eya46/nonebot_plugin_b23)：B站热搜
 - [bnhhsh](https://github.com/lgc2333/nonebot-plugin-bnhhsh)：不能好好说话！
 - [code](https://github.com/yzyyz1387/nonebot_plugin_code)：在线运行代码
 - [crazy-thursday](https://github.com/MinatoAquaCrews/nonebot_plugin_crazy_thursday)：疯狂星期四

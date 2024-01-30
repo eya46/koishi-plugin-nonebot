@@ -1,0 +1,52 @@
+{
+  "name": "@nonebot/koishi-plugin-b23",
+  "description": "B站热搜",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist",
+    "nonebot_plugin_b23/nonebot_plugin_b23"
+  ],
+  "author": "eya46 <61458340+eya46@users.noreply.github.com>",
+  "contributors": [
+    "eya46 <61458340+eya46@users.noreply.github.com>",
+    "NoneBot.js <nonebot@proton.me>"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eya46/nonebot_plugin_b23.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eya46/nonebot_plugin_b23/issues"
+  },
+  "homepage": "https://nonebot.koishi.chat",
+  "koishi": {
+    "service": {
+      "required": [
+        "nonebot"
+      ]
+    }
+  },
+  "keywords": [
+    "bot",
+    "chatbot",
+    "koishi",
+    "plugin",
+    "nonebot",
+    "bilibili"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.10.0",
+    "koishi-plugin-nonebot": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.16.14",
+    "atsc": "^1.2.2",
+    "koishi": "^4.13.0",
+    "koishi-plugin-nonebot": "^1.2.2",
+    "typescript": "^5.0.4"
+  }
+}

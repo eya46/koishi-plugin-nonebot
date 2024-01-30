@@ -169,3 +169,6 @@
 [submodule "plugins/wordle/nonebot-plugin-wordle"]
 	path = plugins/wordle/nonebot-plugin-wordle
 	url = https://github.com/nonebotjs/nonebot-plugin-wordle
+[submodule "plugins/b23/nonebot_plugin_b23"]
+	path = plugins/b23/nonebot_plugin_b23
+	url = https://github.com/eya46/nonebot_plugin_b23.git
